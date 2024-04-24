@@ -3,8 +3,9 @@
 ### Education
 Massachussets Institute Of Technology (MIT) - Certification in Data Science and Machine Learning:  Making Data Driven Decisions 
     https://verify.mygreatlearning.com/verify/ZAKCJWBA
-    Python, Statistics for Data, Unstructured Data, Regression and Prediction, Classification and Hypothesis Testing, Deep Learning and Neural Networks,     
-    Recommendation Systems, Networking and Graphical Models, Predictive Analytics, Generative AI
+    Python * Statistics for Data * Unstructured Data * Regression and Prediction * Classification and Hypothesis 
+    * Testing * Deep Learning and Neural Networks * Recommendation Systems * Networking and Graphical Models         
+    * Predictive Analytics * Generative AI
     
 Business Administration and IT Management, MBA
   * Business Accounting
