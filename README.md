@@ -1,37 +1,37 @@
-# Data Science Enthusiast | Telecommunications and IT Specialist | Project Delivery Execution
+layout: default
+title: Anthony Daniels | Telecommunications Implementation | Data Science Enthusiast
+---
 
-### Education
-Massachussets Institute Of Technology (MIT) - Certification in Data Science and Machine Learning:  Making Data Driven Decisions 
-https://verify.mygreatlearning.com/verify/ZAKCJWBA
-    
-    
-Business Administration and IT Management, MBA
-  * Business Accounting
-  * Financial management
-  * Business Accounting
-  * Financial Analysis and Decision Making
-  * International Business 
+# Your Name
 
-Telecommunications Technology , BS
-  * Data Forensics
-  * Human Resources Communications and Data Law
-  * Project Management (Microsoft Project)
-  * Network development
-  * Routing Protocols
-  * Web Page Development
-  * Wireless Telephony Technologies
-  * Multiplexing Methods
+![Your Profile Picture](profile_picture.jpg)
 
-Engineering Sciences 
-  * Physics
-  * DC/AC Circuit Analysis
-  * Calculus 1-3, Linear Algebra
-  * Differential Equations
-  * Mechanical Engineering Basics
-  * Associates
+## About Me
+Brief overview of yourself and your career goals.
 
-### Work Experience
-Systems Technician ATT
-- Area Wide copper to fiber delivery converstion (Cienna Switches, and Cisco Router installations)
-- 911 dispatch center installations and maintenance (CAD Systems, Vesta, Microdata, Avaya)
-- Multiple sized captive network deployments (Hilton Properties, McDonalds, Arvest Bank)
+## Education
+- **Degree Name**, University Name, Graduation Year
+- Relevant coursework: List any relevant courses or specializations.
+
+## Professional Experience
+### Company Name
+*Position Title* (Start Date - End Date)
+- Description of responsibilities and achievements.
+
+### Another Company
+*Position Title* (Start Date - End Date)
+- Description of responsibilities and achievements.
+
+## Projects
+### Project 1: Project Name (HTML)
+Description of the project.
+- [Link to Project](project1.html)
+
+### Project 2: Project Name (PowerPoint)
+Description of the project.
+- [Link to PowerPoint](project2.pptx)
+
+## Contact Me
+- Email: [youremail@example.com](mailto:youremail@example.com)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
+- GitHub: [Your GitHub Profile](https://github.com/yourusername)
