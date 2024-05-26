@@ -1,10 +1,8 @@
-layout: default
-title: Anthony Daniels | Telecommunications Implementation | Data Science Enthusiast
+Anthony Daniels | Telecommunications Implementation | Data Science Enthusiast
 ---
 
-# Your Name
 
-![Your Profile Picture](profile_picture.jpg)
+![Profile Picture](adanielsfacepic.jpeg)
 
 ## About Me
 Brief overview of yourself and your career goals.
