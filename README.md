@@ -2,7 +2,7 @@ Anthony Daniels | Telecommunications Implementation | Data Science Enthusiast
 ---
 
 
-![Profile Picture](adanielsfacepic.jpeg)
+![Profile Picture]([adanielsfacepic.jpeg](https://github.com/AnthonyKDaniels/Portfolio/blob/main/Adanielsfacepic.jpeg))
 
 ## About Me
 Brief overview of yourself and your career goals.
