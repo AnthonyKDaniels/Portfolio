@@ -17,8 +17,9 @@ Outside of work, my greatest motivation comes from my family. They inspire me to
 
 I am eager to transition into a Technology Management or entry-level Data Scientist role where I can apply my analytical prowess, leadership experience, and technical acumen to contribute to innovative projects and drive business outcomes through data-driven insights
 
-##
-##
+
+&nbsp  
+&nbsp  
 ## Education
 - **Masters of Business Administration and IT Management**, Western Governor's University, 2019
     - Business Accounting, Financial Management, Financial Analysis and Decision Making, Data Analytics and Statistics, International Business
