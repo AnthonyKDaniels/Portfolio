@@ -1,4 +1,4 @@
-Anthony Daniels | Telecommunications and IT Implementation and Management | Data Science Enthusiast
+Anthony Daniels | Telecommunications and IT Implementation and Management | Data Science Apprentice
 ---
 
 
