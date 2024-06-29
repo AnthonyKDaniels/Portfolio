@@ -31,11 +31,10 @@ Brief overview of yourself and your career goals.
 *Position Title* (Start Date - End Date)
 - Description of responsibilities and achievements.
 
-### Project 1
-[Amazon Recommendation System.html](https://github.com/AnthonyKDaniels/Portfolio/blob/main/Recommendation%20systems%20Project%20Presentation%20(2).pdf)
+### Project 1 [Amazon Recommendation System.html](https://github.com/AnthonyKDaniels/Portfolio/blob/main/Recommendation%20systems%20Project%20Presentation%20(2).pdf)
 
-### Project 2
-![](Food%20delivery%20chart%20mesh%20picture.png)[Foodhub Data Analysis.HTML](https://github.com/AnthonyKDaniels/Portfolio/blob/main/FDS_Project_LearnerNotebook_FullCode.pdf)
+### Project 2 [Foodhub Data Analysis.HTML](https://github.com/AnthonyKDaniels/Portfolio/blob/main/FDS_Project_LearnerNotebook_FullCode.pdf)
+![](Food%20delivery%20chart%20mesh%20picture.png)
 
 ### Project 3: Project Name (PowerPoint)
 Description of the project.
