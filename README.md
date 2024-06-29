@@ -43,7 +43,7 @@ Brief overview of yourself and your career goals.
 ## Links
 
 - [Anthony Daniels LinkedIn](https://www.linkedin.com/in/anthony-daniels-549442265/)
-- [YouTube Channel](https://www.youtube.com/channel/yourchannel)
+
 - [GitHub](https://github.com/yourusername)
 
 
