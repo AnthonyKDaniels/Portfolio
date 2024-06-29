@@ -12,7 +12,7 @@ Brief overview of yourself and your career goals.
     - Business Accounting, Financial Management, Financial Analysis and Decision Making, Data Analytics and Statistics, International Business
  
 - **Certificate in Data Science and Machine Learning: Making Data-Driven Decisions**, Massachusetts Institute of Technology, 2024
-    -Making Sense of Unstructured Data, Regression and Prediction, Classification and Hypothesis Testing, Deep Learning, Recommendation Systems, Predictive 
+    - Making Sense of Unstructured Data, Regression and Prediction, Classification and Hypothesis Testing, Deep Learning, Recommendation Systems, Predictive 
      Analytics, Networking and Graphical Models, Data Science and AI, Python Programming
 - **Bachelor's of Science in Telecommunications Technology**, Pace University, 2015
     - Data Forensics, Human Resources Communications and Data Law, Project Management, Network Development, Routing Protocols, Wireless Telephony 
