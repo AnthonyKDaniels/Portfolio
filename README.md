@@ -8,8 +8,8 @@ Anthony Daniels | Telecommunications and IT Implementation and Management | Data
 Brief overview of yourself and your career goals.
 
 ## Education
-- **Degree Name**, University Name, Graduation Year
-- Relevant coursework: List any relevant courses or specializations.
+- **Masters in Business Administration and IT Management**, Western Governor's University, 2019
+    - Business Accounting, Financial Management, Financial Analysis and Decision Making, Data Analytics and Statistics, International Business
 
 ## Professional Experience
 ### Company Name
