@@ -47,7 +47,7 @@ I am eager to transition into a Technology Management or entry-level Data Scient
 
 ### Project 1 [Amazon Recommendation System - Business Leadership Power Point](https://github.com/AnthonyKDaniels/Portfolio/blob/main/Recommendation%20systems%20Project%20Presentation%20(2).pdf)  
 
-### Project 2 [Foodhub Data Analysis]![](Food%20Deliver%20cost%20over%20cuisine%20type.png)(https://github.com/AnthonyKDaniels/Portfolio/blob/main/FDS_Project_LearnerNotebook_FullCode.pdf)
+### Project 2 [Foodhub Data Analysis ![](Food%20Deliver%20cost%20over%20cuisine%20type.png)](https://github.com/AnthonyKDaniels/Portfolio/blob/main/FDS_Project_LearnerNotebook_FullCode.pdf)
  
 
 ### Project 3: [Fantasy Football Analysis Tool](https://github.com/AnthonyKDaniels/Portfolio/blob/main/fantasy_analysis_with_clustering_data.pdf)
