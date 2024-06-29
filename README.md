@@ -17,6 +17,8 @@ Outside of work, my greatest motivation comes from my family. They inspire me to
 
 I am eager to transition into a Technology Management or entry-level Data Scientist role where I can apply my analytical prowess, leadership experience, and technical acumen to contribute to innovative projects and drive business outcomes through data-driven insights
 
+##
+##
 ## Education
 - **Masters of Business Administration and IT Management**, Western Governor's University, 2019
     - Business Accounting, Financial Management, Financial Analysis and Decision Making, Data Analytics and Statistics, International Business
@@ -32,6 +34,8 @@ I am eager to transition into a Technology Management or entry-level Data Scient
       and Linear Equations
 
 
+##
+##
 ## Professional Experience
 ### ATT
 - *Systems Technician* (07/2012 - Present)
@@ -39,8 +43,8 @@ I am eager to transition into a Technology Management or entry-level Data Scient
 - *Senior Sales Consultant*(07/2004 - 07/2008)
 
 
-
-
+##
+##
 ## Completed Projects
 
 ### Project 1 [Amazon Recommendation System - Business Leadership Power Point](https://github.com/AnthonyKDaniels/Portfolio/blob/main/Recommendation%20systems%20Project%20Presentation%20(2).pdf)
@@ -51,7 +55,8 @@ I am eager to transition into a Technology Management or entry-level Data Scient
 ### Project 3: [Fantasy Football Analysis Tool](https://github.com/AnthonyKDaniels/Portfolio/blob/main/fantasy_analysis_with_clustering_data.pdf)
 ![](Jalen%20Hurts%20Analysis%20vs%20def.png)
 
-
+##
+##
 ## Links
 
 - [Anthony Daniels LinkedIn](https://www.linkedin.com/in/anthony-daniels-549442265/)
