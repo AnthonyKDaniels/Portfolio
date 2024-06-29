@@ -2,7 +2,7 @@ Anthony Daniels | Telecommunications and IT Implementation and Management | Data
 ---
 
 
-![](Adanielsfacepic.jpeg)
+<img src="Adanielsfacepic.jpeg" alt="Profile Picture" width="100" height="auto">
 
 ## About Me
 I am Anthony K. Daniels, an accomplished Business and IT Management professional with over 18 years of experience in telecommunications and IT operations. Currently, I hold the role of Systems Technician at ATT, where I have dedicated myself to optimizing operations and ensuring the seamless delivery of business telecommunications products. Throughout my tenure, I have demonstrated a strong commitment to efficiency and cost-effectiveness, exemplified by internalizing project work to reduce costs and leading initiatives that significantly enhance system reliability.
