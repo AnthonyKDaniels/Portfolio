@@ -58,6 +58,7 @@ I am eager to transition into a Technology Management or entry-level Data Scient
 
 - [Anthony Daniels LinkedIn](https://www.linkedin.com/in/anthony-daniels-549442265/)
 - [GitHub](https://github.com/AnthonyKDaniels/)
+- [Resume](https://github.com/AnthonyKDaniels/Portfolio/blob/main/Anthony%20K_Daniels_resume_MRCH24.pdf)
 
 
 
