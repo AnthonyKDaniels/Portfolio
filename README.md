@@ -32,7 +32,7 @@ Brief overview of yourself and your career goals.
 - Description of responsibilities and achievements.
 
 ### Project 1
-[Project 1 HTML](projects/project1.html)
+[Amazon Recommendation System]([[projects/project1.html](https://github.com/AnthonyKDaniels/Portfolio/blob/main/Recommendation%20systems%20Project%20Presentation%20(2).pdf)]
 
 ### Project 2
 [Project 2 HTML](projects/project2.html)
