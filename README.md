@@ -35,7 +35,7 @@ Brief overview of yourself and your career goals.
 [Amazon Recommendation System.html](https://github.com/AnthonyKDaniels/Portfolio/blob/main/Recommendation%20systems%20Project%20Presentation%20(2).pdf)
 
 ### Project 2
-[Project 2 HTML](projects/project2.html)
+[FDS_Project_Learner_Notebook.HTML](https://github.com/AnthonyKDaniels/Portfolio/blob/main/FDS_Project_LearnerNotebook_FullCode%20(1).html)
 
 ### Project 3: Project Name (PowerPoint)
 Description of the project.
