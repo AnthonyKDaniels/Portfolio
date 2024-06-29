@@ -40,6 +40,9 @@ I am eager to transition into a Technology Management or entry-level Data Scient
 
 
 
+
+## Completed Projects
+
 ### Project 1 [Amazon Recommendation System - Business Leadership Power Point](https://github.com/AnthonyKDaniels/Portfolio/blob/main/Recommendation%20systems%20Project%20Presentation%20(2).pdf)
 
 ### Project 2 [Foodhub Data Analysis](https://github.com/AnthonyKDaniels/Portfolio/blob/main/FDS_Project_LearnerNotebook_FullCode.pdf)
