@@ -2,7 +2,7 @@ Anthony Daniels | Telecommunications and IT Implementation and Management | Data
 ---
 
 
-![Profile Picture]([adanielsfacepic.jpeg](https://github.com/AnthonyKDaniels/Portfolio/blob/main/Adanielsfacepic.jpeg))
+![](Adanielsfacepic.jpeg))
 
 ## About Me
 Brief overview of yourself and your career goals.
