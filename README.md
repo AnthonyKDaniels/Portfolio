@@ -36,9 +36,8 @@ Brief overview of yourself and your career goals.
 ### Project 2 [Foodhub Data Analysis](https://github.com/AnthonyKDaniels/Portfolio/blob/main/FDS_Project_LearnerNotebook_FullCode.pdf)
 ![](Food%20delivery%20chart%20mesh%20picture.png)
 
-### Project 3: Project Name (PowerPoint)
+### Project 3: [Fantasy Football Analysis Tool](https://github.com/AnthonyKDaniels/Portfolio/blob/main/fantasy_analysis_with_clustering_data.pdf)
 Description of the project.
-- [Link to PowerPoint](project2.pptx)
 
 
 ## Links
