@@ -53,8 +53,8 @@ I am eager to transition into a Technology Management or entry-level Data Scient
 ### Project 3: [Fantasy Football Analysis Tool](https://github.com/AnthonyKDaniels/Portfolio/blob/main/fantasy_analysis_with_clustering_data.pdf)
 [![](Jalen%20Hurts%20Analysis%20vs%20def.png)](https://github.com/AnthonyKDaniels/Portfolio/blob/main/fantasy_analysis_with_clustering_data.pdf)  
 
-### Project 4:  [Classification and Hypothesis Testing w/Decision Tree and Random Forest Model](https://github.com/AnthonyKDaniels/Portfolio/blob/main/Classification%20and%20Hypothesis%20Testing%20Project%202024.pdf)
-[![](https://github.com/AnthonyKDaniels/Portfolio/blob/main/Decision%20Tree%20Classification%20and%20hypothesis%20testing%20070724.png)(https://github.com/AnthonyKDaniels/Portfolio/blob/main/Classification%20and%20Hypothesis%20Testing%20Project%202024.pdf)
+### Project 4: [Classification and Hypothesis Testing w/Decision Tree and Random Forest Model](https://github.com/AnthonyKDaniels/Portfolio/blob/main/Classification%20and%20Hypothesis%20Testing%20Project%202024.pdf)
+[![](https://github.com/AnthonyKDaniels/Portfolio/blob/main/Decision%20Tree%20Classification%20and%20hypothesis%20testing%20070724.png)](https://github.com/AnthonyKDaniels/Portfolio/blob/main/Classification%20and%20Hypothesis%20Testing%20Project%202024.pdf)
 
 
 ## Links
