@@ -59,7 +59,7 @@ I am eager to transition into a Technology Management or entry-level Data Scient
 -  Additional Insights:  There was a lot of data cleaning that had to be done for this project, as well as determining of direction for how additional statistics were going to be determined, and what statistics were going to be viewed as meaningful.  
 
 ### Project 4: [Classification and Hypothesis Testing w/Decision Tree and Random Forest Model](https://github.com/AnthonyKDaniels/Portfolio/blob/main/Classification%20and%20Hypothesis%20Testing%20Project%202024.pdf)
-[![](https://github.com/AnthonyKDaniels/Portfolio/blob/main/Decision%20Tree%20Classification%20and%20hypothesis%20testing%20070724.png)](https://github.com/AnthonyKDaniels/Portfolio/blob/main/Classification%20and%20Hypothesis%20Testing%20Project%202024.pdf)
+[![](small%20decision%20tree.png)](https://github.com/AnthonyKDaniels/Portfolio/blob/main/Classification%20and%20Hypothesis%20Testing%20Project%202024.pdf)
 -  Description:  Data science project that imports data from an online edducational technology startup and seeks to create a machine learning model to identify which leads are most likely to convert to paid customers.  In the process, completed analysis to determine 
    additional insights regarding conversion patterns and make recommendations to enhance company performance.
 
